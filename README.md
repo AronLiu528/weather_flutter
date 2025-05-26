@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ![App Brewery Banner](https://github.com/londonappbrewery/Images/blob/master/AppBreweryBanner.png)
 
 
@@ -32,3 +33,7 @@ We’re going to make a weather app inspired by the beautiful designs made by [O
 >This is a companion project to The App Brewery's Complete Flutter Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
 
 ![End Banner](https://github.com/londonappbrewery/Images/blob/master/readme-end-banner.png)
+=======
+# weather_flutter
+Get weather information based on location
+>>>>>>> 31184c7b8ed0736569146e25db1a8089c5aaf73a
