@@ -1,10 +1,10 @@
-import 'package:clima/Model/clouds.dart';
-import 'package:clima/Model/coord.dart';
-import 'package:clima/Model/main_indo.dart';
-import 'package:clima/Model/rain.dart';
-import 'package:clima/Model/sys.dart';
-import 'package:clima/Model/weather.dart';
-import 'package:clima/Model/wind.dart';
+import 'clouds.dart';
+import 'coord.dart';
+import 'main_indo.dart';
+import 'rain.dart';
+import 'sys.dart';
+import 'weather.dart';
+import 'wind.dart';
 
 class WeatherResponse {
   final Coord coord;

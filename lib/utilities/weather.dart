@@ -1,4 +1,4 @@
-import '../Model/weather_response.dart';
+import '../model/weather_response.dart';
 import '../services/location.dart';
 import '../services/weather_api.dart';
 

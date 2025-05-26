@@ -1,9 +1,9 @@
-import 'package:clima/screens/location_screen.dart';
-import 'package:clima/utilities/weather.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_spinkit/flutter_spinkit.dart';
-import '../Model/weather_response.dart';
+import '../model/weather_response.dart';
 import '../services/pexels_photo.dart';
+import '../utilities/weather.dart';
+import 'location_screen.dart';
 
 class LoadingScreen extends StatefulWidget {
   const LoadingScreen({super.key});

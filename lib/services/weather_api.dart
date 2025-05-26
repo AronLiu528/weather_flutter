@@ -1,5 +1,5 @@
 import 'package:dio/dio.dart';
-import '../Model/weather_response.dart';
+import '../model/weather_response.dart';
 
 class WeatherApi {
   WeatherApi(this.url);
