@@ -36,7 +36,7 @@ class _LoadingScreenState extends State<LoadingScreen> {
         );
       }));
     } catch (e) {
-      print('Get location data error:$e');
+      print('Get location or photo data error:$e');
     }
   }
 

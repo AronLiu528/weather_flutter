@@ -26,7 +26,7 @@ class PexelsPhotoService {
 
       final List photos = response.data['photos'];
       List<String> photoUrls =
-          photos.map((photo) => photo['src']['large2x'] as String).toList();
+          photos.map((photo) => photo['src']['landscape'] as String).toList();
 
       return photoUrls;
     } catch (e) {

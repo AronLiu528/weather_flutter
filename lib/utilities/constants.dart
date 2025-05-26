@@ -25,3 +25,15 @@ const kTextFieldInputDecoration = OutlineInputBorder(
   ),
   borderSide: BorderSide.none,
 );
+
+const kDialogTitleTextStyle = TextStyle(
+  fontSize: 23.0,
+  fontFamily: 'Spartan MB',
+  color: Color(0xFF616161),
+);
+
+TextStyle kDialogButtonTextStyle = TextStyle(
+  fontSize: 20.0,
+  fontFamily: 'Spartan MB',
+  color: Colors.purple.shade100,
+);
